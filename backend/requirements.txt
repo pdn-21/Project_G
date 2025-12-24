@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+cryptography
+python-dotenv
+pandas
+openpyxl
+requests
+jinja2
+python-multipart
